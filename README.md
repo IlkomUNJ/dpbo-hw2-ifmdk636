@@ -13,10 +13,11 @@ NIM : 1313624055
 # Features Implemented (list all completed)
 1. Login Seller and Buyer
 2. All Method for Bank Buyer
-3. Seller Edit Item
+3. Seller Add and Edit Item
 4. Buyer Buy Item
 5. Buyer Pay Item
 6. Transaction Record
+7. Item Store
 
 
 # Collaborators (The person you learned from)
